@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iot 组件容器部署 on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/tags/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/</link>
+    <description>Recent content in iot 组件容器部署 on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Aug 2022 14:39:35 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/tags/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iot 组件容器部署</title>
+      <link>https://xingxing.io/devops/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Thu, 04 Aug 2022 14:39:35 +0800</pubDate>
+      <guid>https://xingxing.io/devops/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;p&gt;iot 组件容器部署&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

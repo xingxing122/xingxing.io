@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/categories/data/</link>
+    <description>Recent content in data on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 10:04:16 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大数据部署</title>
+      <link>https://xingxing.io/data/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Sun, 18 Feb 2024 10:04:16 +0800</pubDate>
+      <guid>https://xingxing.io/data/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;p&gt;大数据单机版部署&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hbase 安装</title>
+      <link>https://xingxing.io/data/hbase-%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Tue, 25 Jul 2023 17:02:32 +0800</pubDate>
+      <guid>https://xingxing.io/data/hbase-%E5%AE%89%E8%A3%85/</guid>
+      <description>&lt;p&gt;hbase 安装&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hbase 基础</title>
+      <link>https://xingxing.io/data/hbase-%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Tue, 29 Nov 2022 11:31:24 +0800</pubDate>
+      <guid>https://xingxing.io/data/hbase-%E5%9F%BA%E7%A1%80/</guid>
+      <description>&lt;p&gt;hbase 基础&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pigsty-centos7.9</title>
+      <link>https://xingxing.io/data/pigsty-centos/</link>
+      <pubDate>Wed, 06 Apr 2022 22:06:42 +0800</pubDate>
+      <guid>https://xingxing.io/data/pigsty-centos/</guid>
+      <description>&lt;p&gt;pigsty centos 测试&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clickhouse 基础学习</title>
+      <link>https://xingxing.io/data/clickhouse-%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Wed, 17 Nov 2021 15:16:49 +0800</pubDate>
+      <guid>https://xingxing.io/data/clickhouse-%E5%9F%BA%E7%A1%80/</guid>
+      <description>&lt;h6 id=&#34;clickhouse-基础学习&#34;&gt;clickhouse 基础学习&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Hbase 集群部署</title>
+      <link>https://xingxing.io/data/hbase-%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Wed, 17 Nov 2021 15:14:29 +0800</pubDate>
+      <guid>https://xingxing.io/data/hbase-%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;h6 id=&#34;hbase-集群部署&#34;&gt;hbase 集群部署&lt;/h6&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/tags/</link>
+    <description>Recent content in Tags on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 10:04:16 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data</title>
+      <link>https://xingxing.io/tags/data/</link>
+      <pubDate>Sun, 18 Feb 2024 10:04:16 +0800</pubDate>
+      <guid>https://xingxing.io/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>openapi</title>
+      <link>https://xingxing.io/tags/openapi/</link>
+      <pubDate>Mon, 12 Jun 2023 10:50:00 +0800</pubDate>
+      <guid>https://xingxing.io/tags/openapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kubernetes</title>
+      <link>https://xingxing.io/tags/kubernetes/</link>
+      <pubDate>Thu, 18 May 2023 15:44:36 +0800</pubDate>
+      <guid>https://xingxing.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>devops</title>
+      <link>https://xingxing.io/tags/devops/</link>
+      <pubDate>Tue, 25 Apr 2023 17:42:33 +0800</pubDate>
+      <guid>https://xingxing.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nfs 静态</title>
+      <link>https://xingxing.io/tags/nfs-%E9%9D%99%E6%80%81/</link>
+      <pubDate>Fri, 13 Jan 2023 11:23:46 +0800</pubDate>
+      <guid>https://xingxing.io/tags/nfs-%E9%9D%99%E6%80%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kubenetes</title>
+      <link>https://xingxing.io/tags/kubenetes/</link>
+      <pubDate>Tue, 11 Oct 2022 15:06:51 +0800</pubDate>
+      <guid>https://xingxing.io/tags/kubenetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iot 组件容器部署</title>
+      <link>https://xingxing.io/tags/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Thu, 04 Aug 2022 14:39:35 +0800</pubDate>
+      <guid>https://xingxing.io/tags/iot-%E7%BB%84%E4%BB%B6%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jenkins</title>
+      <link>https://xingxing.io/tags/jenkins/</link>
+      <pubDate>Sat, 30 Jul 2022 15:11:49 +0800</pubDate>
+      <guid>https://xingxing.io/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>npm nexus</title>
+      <link>https://xingxing.io/tags/npm-nexus/</link>
+      <pubDate>Thu, 27 Jan 2022 11:03:22 +0800</pubDate>
+      <guid>https://xingxing.io/tags/npm-nexus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>golang</title>
+      <link>https://xingxing.io/tags/golang/</link>
+      <pubDate>Mon, 10 Jan 2022 17:23:08 +0800</pubDate>
+      <guid>https://xingxing.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>linux</title>
+      <link>https://xingxing.io/tags/linux/</link>
+      <pubDate>Mon, 10 Jan 2022 09:44:22 +0800</pubDate>
+      <guid>https://xingxing.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>go练习</title>
+      <link>https://xingxing.io/tags/go%E7%BB%83%E4%B9%A0/</link>
+      <pubDate>Mon, 29 Nov 2021 22:23:54 +0800</pubDate>
+      <guid>https://xingxing.io/tags/go%E7%BB%83%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>harbor ha</title>
+      <link>https://xingxing.io/tags/harbor-ha/</link>
+      <pubDate>Wed, 17 Nov 2021 15:08:28 +0800</pubDate>
+      <guid>https://xingxing.io/tags/harbor-ha/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

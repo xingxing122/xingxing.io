@@ -1,0 +1,56 @@
+{
+  "name": "潇洒自由 |  xingxing Blog",
+  "short_name": "潇洒自由 |  xingxing Blog",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://xingxing.io?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#E8505B",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_48x48_resize_lanczos_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_72x72_resize_lanczos_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_96x96_resize_lanczos_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_144x144_resize_lanczos_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_192x192_resize_lanczos_3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu1d24ad14981a9c6fc9bfe1852052a842_1221_512x512_resize_lanczos_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
