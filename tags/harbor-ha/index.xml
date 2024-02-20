@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>harbor ha on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/tags/harbor-ha/</link>
+    <description>Recent content in harbor ha on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 15:08:28 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/tags/harbor-ha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harbor Ha</title>
+      <link>https://xingxing.io/posts/kubernetes/harbor-ha/</link>
+      <pubDate>Wed, 17 Nov 2021 15:08:28 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/harbor-ha/</guid>
+      <description>&lt;h6 id=&#34;harbor-高可用部署&#34;&gt;harbor 高可用部署&lt;/h6&gt;</description>
+    </item>
+  </channel>
+</rss>

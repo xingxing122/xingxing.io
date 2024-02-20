@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenkins on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/tags/jenkins/</link>
+    <description>Recent content in Jenkins on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jul 2022 15:11:49 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jenkins</title>
+      <link>https://xingxing.io/posts/devops/jenkins/</link>
+      <pubDate>Sat, 30 Jul 2022 15:11:49 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins/</guid>
+      <description>&lt;p&gt;Jenkins&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

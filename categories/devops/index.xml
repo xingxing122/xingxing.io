@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/categories/devops/</link>
+    <description>Recent content in devops on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Apr 2023 17:42:33 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canal Dts</title>
+      <link>https://xingxing.io/posts/devops/canal%E9%85%8D%E7%BD%AEmysql-mysql%E5%90%8C%E6%AD%A5/</link>
+      <pubDate>Tue, 25 Apr 2023 17:42:33 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/canal%E9%85%8D%E7%BD%AEmysql-mysql%E5%90%8C%E6%AD%A5/</guid>
+      <description>&lt;p&gt;canal  mysql 到mysql 数据同步&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>迁移工具</title>
+      <link>https://xingxing.io/posts/devops/%E8%BF%81%E7%A7%BB%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 29 Mar 2023 11:12:57 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/%E8%BF%81%E7%A7%BB%E5%B7%A5%E5%85%B7/</guid>
+      <description>&lt;p&gt;迁移工具&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canal</title>
+      <link>https://xingxing.io/posts/devops/canal/</link>
+      <pubDate>Fri, 17 Mar 2023 10:22:29 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/canal/</guid>
+      <description>&lt;p&gt;Canal 主要用途是基于MySQL 数据库增量日志解析，提供增量数据订阅和消费&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seata 部署</title>
+      <link>https://xingxing.io/posts/devops/seata-%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Thu, 16 Feb 2023 10:41:10 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/seata-%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;p&gt;seata 部署&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elasticsearch 故障</title>
+      <link>https://xingxing.io/posts/devops/elasticsearch-%E6%95%85%E9%9A%9C/</link>
+      <pubDate>Tue, 14 Feb 2023 14:33:18 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/elasticsearch-%E6%95%85%E9%9A%9C/</guid>
+      <description>&lt;p&gt;elasticsearch 故障&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prometheus 实战</title>
+      <link>https://xingxing.io/posts/devops/prometheus-%E5%AE%9E%E6%88%98/</link>
+      <pubDate>Thu, 12 Jan 2023 16:25:14 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/prometheus-%E5%AE%9E%E6%88%98/</guid>
+      <description>&lt;p&gt;prometheus 实战&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>https://xingxing.io/posts/devops/prometheus-%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Wed, 24 Aug 2022 21:42:50 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/prometheus-%E5%AE%89%E8%A3%85/</guid>
+      <description>&lt;p&gt;prometheus&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mosquitto</title>
+      <link>https://xingxing.io/posts/devops/mosquitto/</link>
+      <pubDate>Mon, 28 Mar 2022 12:18:18 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/mosquitto/</guid>
+      <description>&lt;p&gt;mosquitto 制作镜像&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rds Mysql Recover</title>
+      <link>https://xingxing.io/posts/devops/rds-mysql-recover/</link>
+      <pubDate>Wed, 23 Mar 2022 23:01:24 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/rds-mysql-recover/</guid>
+      <description>&lt;p&gt;腾讯云RDS数据库恢复&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gitlab Update</title>
+      <link>https://xingxing.io/posts/devops/gitlab-update/</link>
+      <pubDate>Wed, 08 Dec 2021 15:51:45 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/gitlab-update/</guid>
+      <description>&lt;h5 id=&#34;gitlab-update-升级测试&#34;&gt;gitlab update 升级测试&lt;/h5&gt;</description>
+    </item>
+    <item>
+      <title>Ansible Playbook</title>
+      <link>https://xingxing.io/posts/devops/ansible-playbook/</link>
+      <pubDate>Wed, 17 Nov 2021 14:28:09 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/ansible-playbook/</guid>
+      <description>&lt;h6 id=&#34;ansible-playbook-的学习&#34;&gt;ansible playbook 的学习&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Harbor 2.1.1 安装</title>
+      <link>https://xingxing.io/posts/devops/harbor-2.1.1-%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Wed, 18 Nov 2020 11:37:14 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/harbor-2.1.1-%E5%AE%89%E8%A3%85/</guid>
+      <description>&lt;h6 id=&#34;harbor-21-安装&#34;&gt;harbor 2.1 安装&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>“ jenkins-工具集成 ”</title>
+      <link>https://xingxing.io/posts/devops/jenkins-%E5%B7%A5%E5%85%B7%E9%9B%86%E6%88%90/</link>
+      <pubDate>Tue, 01 Sep 2020 16:30:14 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins-%E5%B7%A5%E5%85%B7%E9%9B%86%E6%88%90/</guid>
+      <description>&lt;h6 id=&#34;maven--npm-等jenkins-工具的集成&#34;&gt;maven  npm 等jenkins 工具的集成&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Jenkins 忘记密码</title>
+      <link>https://xingxing.io/posts/devops/jenkins-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81/</link>
+      <pubDate>Thu, 27 Aug 2020 15:57:35 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81/</guid>
+      <description>&lt;h6 id=&#34;jenkins-忘记密码&#34;&gt;jenkins 忘记密码&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Nexus 解决node Saas慢的问题</title>
+      <link>https://xingxing.io/posts/devops/nexus-%E8%A7%A3%E5%86%B3node-saas%E6%85%A2%E7%AD%89%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Thu, 27 Aug 2020 09:53:52 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/nexus-%E8%A7%A3%E5%86%B3node-saas%E6%85%A2%E7%AD%89%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;h6 id=&#34;nexus--解决node-saas-依赖慢的问题&#34;&gt;nexus  解决node-saas 依赖慢的问题&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Jenkins Docker</title>
+      <link>https://xingxing.io/posts/devops/jenkins-docker/</link>
+      <pubDate>Wed, 05 Aug 2020 16:59:18 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins-docker/</guid>
+      <description>&lt;h6 id=&#34;jenkins-使用docker-安装&#34;&gt;Jenkins 使用docker 安装&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Jenkins 语法</title>
+      <link>https://xingxing.io/posts/devops/jenkins-%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Tue, 04 Aug 2020 16:50:59 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins-%E8%AF%AD%E6%B3%95/</guid>
+      <description>&lt;h6 id=&#34;jenkinsfile&#34;&gt;Jenkinsfile&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Jenkins 部署</title>
+      <link>https://xingxing.io/posts/devops/jenkins-%E4%BA%91%E4%B8%BB%E6%9C%BA%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Mon, 03 Aug 2020 16:31:16 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/jenkins-%E4%BA%91%E4%B8%BB%E6%9C%BA%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;h6 id=&#34;jenkins-是一个自包含的开源自动化服务器可用于自动化与构建测试以及交付或部署软件有关的各种任务&#34;&gt;Jenkins 是一个自包含的开源自动化服务器，可用于自动化与构建，测试以及交付或部署软件有关的各种任务。&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Nexus Maven仓库升级</title>
+      <link>https://xingxing.io/posts/devops/nexus-maven%E4%BB%93%E5%BA%93%E5%8D%87%E7%BA%A7/</link>
+      <pubDate>Wed, 05 Feb 2020 10:34:10 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/nexus-maven%E4%BB%93%E5%BA%93%E5%8D%87%E7%BA%A7/</guid>
+      <description>&lt;h6 id=&#34;nexus-214-升级到320版本&#34;&gt;nexus 2.14 升级到3.20版本&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Git提交代码报错</title>
+      <link>https://xingxing.io/posts/devops/git%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81%E6%8A%A5%E9%94%99/</link>
+      <pubDate>Tue, 13 Aug 2019 15:06:38 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/git%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81%E6%8A%A5%E9%94%99/</guid>
+      <description>&lt;h6 id=&#34;git-代码提交报错&#34;&gt;git 代码提交报错&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Gitlab容器化部署</title>
+      <link>https://xingxing.io/posts/devops/gitlab%E5%AE%B9%E5%99%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Wed, 07 Aug 2019 21:38:01 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/gitlab%E5%AE%B9%E5%99%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;h6 id=&#34;gitlab-容器化部署&#34;&gt;gitlab 容器化部署&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Ansible 使用</title>
+      <link>https://xingxing.io/posts/devops/ansible-%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 08 Jul 2019 14:26:46 +0800</pubDate>
+      <guid>https://xingxing.io/posts/devops/ansible-%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;h6 id=&#34;ansible-日常使用&#34;&gt;ansible 日常使用&lt;/h6&gt;</description>
+    </item>
+  </channel>
+</rss>

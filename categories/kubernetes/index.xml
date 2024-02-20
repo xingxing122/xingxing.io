@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/categories/kubernetes/</link>
+    <description>Recent content in kubernetes on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 15:44:36 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRD</title>
+      <link>https://xingxing.io/posts/kubernetes/crd/</link>
+      <pubDate>Thu, 18 May 2023 15:44:36 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/crd/</guid>
+      <description>&lt;p&gt;CRD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>污点与容忍</title>
+      <link>https://xingxing.io/posts/kubernetes/%E6%B1%A1%E7%82%B9%E4%B8%8E%E5%AE%B9%E5%BF%8D/</link>
+      <pubDate>Sat, 22 Apr 2023 18:03:02 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/%E6%B1%A1%E7%82%B9%E4%B8%8E%E5%AE%B9%E5%BF%8D/</guid>
+      <description>&lt;p&gt;污点与容忍度&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubectl 命令补齐工具</title>
+      <link>https://xingxing.io/posts/kubernetes/kubectl-%E5%91%BD%E4%BB%A4%E8%A1%A5%E9%BD%90%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 21 Apr 2023 23:56:08 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubectl-%E5%91%BD%E4%BB%A4%E8%A1%A5%E9%BD%90%E5%B7%A5%E5%85%B7/</guid>
+      <description>&lt;p&gt;kubectl 命令补齐工具&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nfs 动态</title>
+      <link>https://xingxing.io/posts/kubernetes/nfs-%E5%8A%A8%E6%80%81/</link>
+      <pubDate>Fri, 13 Jan 2023 11:23:37 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/nfs-%E5%8A%A8%E6%80%81/</guid>
+      <description>&lt;p&gt;nfs  配置&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rancher Install</title>
+      <link>https://xingxing.io/posts/kubernetes/rancher-install/</link>
+      <pubDate>Tue, 11 Oct 2022 17:10:35 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/rancher-install/</guid>
+      <description>&lt;p&gt;在k8s 上单独安装rancher&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>K8s 单机版</title>
+      <link>https://xingxing.io/posts/kubernetes/k8s-%E5%8D%95%E6%9C%BA%E7%89%88/</link>
+      <pubDate>Mon, 01 Aug 2022 10:34:15 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/k8s-%E5%8D%95%E6%9C%BA%E7%89%88/</guid>
+      <description>&lt;p&gt;k8s 单机版&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Velero 备份集群</title>
+      <link>https://xingxing.io/posts/kubernetes/velero-%E5%A4%87%E4%BB%BD%E9%9B%86%E7%BE%A4/</link>
+      <pubDate>Thu, 30 Jun 2022 00:08:25 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/velero-%E5%A4%87%E4%BB%BD%E9%9B%86%E7%BE%A4/</guid>
+      <description>&lt;p&gt;velero 备份集群&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes Cka</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-cka/</link>
+      <pubDate>Wed, 17 Nov 2021 11:43:31 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-cka/</guid>
+      <description>&lt;h6 id=&#34;kubernetes-cka-证书涉及的知识点&#34;&gt;kubernetes cka 证书涉及的知识点&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes 1</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-1.20-containerd/</link>
+      <pubDate>Wed, 17 Nov 2021 11:40:56 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-1.20-containerd/</guid>
+      <description>&lt;h6 id=&#34;kubernetes-120-使用containerd-安装集群&#34;&gt;kubernetes 1.20 使用containerd 安装集群&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Docker 基础知识</title>
+      <link>https://xingxing.io/posts/kubernetes/docker-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Wed, 16 Dec 2020 10:42:55 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/docker-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>&lt;h6 id=&#34;docker-基础知识&#34;&gt;Docker 基础知识&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>etcd 基础知识4 </title>
+      <link>https://xingxing.io/posts/kubernetes/etcd-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Fri, 18 Sep 2020 10:47:23 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/etcd-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>&lt;h6 id=&#34;etcd-基础知识&#34;&gt;etcd 基础知识&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes 编译</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-%E7%BC%96%E8%AF%91/</link>
+      <pubDate>Tue, 15 Sep 2020 21:41:46 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-%E7%BC%96%E8%AF%91/</guid>
+      <description>&lt;h6 id=&#34;kubernetes--编译&#34;&gt;kubernetes  编译&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes RBAC认证</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-rbac%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Mon, 14 Sep 2020 21:30:31 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-rbac%E8%AE%A4%E8%AF%81/</guid>
+      <description>&lt;h6 id=&#34;rbacrole-based--access-control-基于角色的访问控制&#34;&gt;RBAC(Role-Based  Access Control 基于角色的访问控制)&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>kubernetes 安全机制</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6/</link>
+      <pubDate>Wed, 09 Sep 2020 14:50:05 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6/</guid>
+      <description>&lt;h6 id=&#34;kubernetes-安全机制&#34;&gt;kubernetes 安全机制&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Rancher-基本使用</title>
+      <link>https://xingxing.io/posts/kubernetes/rancher-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Fri, 31 Jul 2020 11:00:18 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/rancher-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;h6 id=&#34;rancher-的基本使用&#34;&gt;rancher 的基本使用&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Rancher 配置LDAP认证</title>
+      <link>https://xingxing.io/posts/kubernetes/rancher-%E9%85%8D%E7%BD%AEldap%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Fri, 31 Jul 2020 10:10:44 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/rancher-%E9%85%8D%E7%BD%AEldap%E8%AE%A4%E8%AF%81/</guid>
+      <description>&lt;h6 id=&#34;rancher--配置ldap-认证&#34;&gt;rancher  配置LDAP 认证&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>面试题</title>
+      <link>https://xingxing.io/posts/kubernetes/%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Fri, 31 Jul 2020 10:10:44 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description>&lt;h6 id=&#34;面试题&#34;&gt;面试题&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Rancher_RKE集群部署</title>
+      <link>https://xingxing.io/posts/kubernetes/rancher_rke%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Wed, 22 Jul 2020 09:52:34 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/rancher_rke%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/</guid>
+      <description>&lt;h6 id=&#34;使用rke-部署rancher-集群&#34;&gt;使用rke 部署rancher 集群&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Pod健康检查与服务可用性检查</title>
+      <link>https://xingxing.io/posts/kubernetes/%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%8F%AF%E7%94%A8%E6%80%A7%E6%A3%80%E6%9F%A5/</link>
+      <pubDate>Mon, 18 May 2020 18:43:44 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%8F%AF%E7%94%A8%E6%80%A7%E6%A3%80%E6%9F%A5/</guid>
+      <description>&lt;h6 id=&#34;pod-健康检查与服务可用性检查&#34;&gt;Pod 健康检查与服务可用性检查&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Pod重启策略</title>
+      <link>https://xingxing.io/posts/kubernetes/pod%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5/</link>
+      <pubDate>Mon, 18 May 2020 13:50:16 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/pod%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5/</guid>
+      <description>&lt;h6 id=&#34;pod-的重启策略&#34;&gt;Pod 的重启策略&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes 基础知识</title>
+      <link>https://xingxing.io/posts/kubernetes/kubernetes-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Thu, 13 Jun 2019 23:24:16 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/kubernetes-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>&lt;h6 id=&#34;kubernetes-是什么&#34;&gt;Kubernetes 是什么？&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Helm 使用详解</title>
+      <link>https://xingxing.io/posts/kubernetes/helm-%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</link>
+      <pubDate>Tue, 21 May 2019 15:39:50 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/helm-%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</guid>
+      <description>&lt;h6 id=&#34;helm--使用详解&#34;&gt;helm  使用详解&lt;/h6&gt;</description>
+    </item>
+    <item>
+      <title>Helm 安装使用</title>
+      <link>https://xingxing.io/posts/kubernetes/helm-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Tue, 16 Apr 2019 17:57:23 +0800</pubDate>
+      <guid>https://xingxing.io/posts/kubernetes/helm-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;h6 id=&#34;helm-安装使用&#34;&gt;helm 安装使用&lt;/h6&gt;</description>
+    </item>
+  </channel>
+</rss>

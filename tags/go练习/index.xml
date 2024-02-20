@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go练习 on 潇洒自由 |  xingxing Blog</title>
+    <link>https://xingxing.io/tags/go%E7%BB%83%E4%B9%A0/</link>
+    <description>Recent content in go练习 on 潇洒自由 |  xingxing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Nov 2021 22:23:54 +0800</lastBuildDate>
+    <atom:link href="https://xingxing.io/tags/go%E7%BB%83%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go练习</title>
+      <link>https://xingxing.io/posts/golang/go%E7%BB%83%E4%B9%A0/</link>
+      <pubDate>Mon, 29 Nov 2021 22:23:54 +0800</pubDate>
+      <guid>https://xingxing.io/posts/golang/go%E7%BB%83%E4%B9%A0/</guid>
+      <description>&lt;h6 id=&#34;go练习&#34;&gt;go练习&lt;/h6&gt;</description>
+    </item>
+  </channel>
+</rss>
